@@ -1,0 +1,25 @@
+_repo: Palos-of-the-Dog-Star-Pack_67353
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giesy, J.U.
+    gutenberg_agent_id: '54223'
+    url: http://www.gutenberg.org/2009/agents/54223
+description: ''
+gutenberg_issued: '2022-02-07'
+identifiers:
+  gutenberg: '67353'
+language: en
+pgterms:marc905: 20211023091812giesy
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Greg Weeks, Sankar Viswanathan, Mary Meehan and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: United States :Frank A. Munsey Company,1918,copyright 1941.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Palos of the Dog Star Pack
+url: http://www.gutenberg.org/ebooks/67353
